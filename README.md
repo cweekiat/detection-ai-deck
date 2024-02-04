@@ -1,5 +1,8 @@
-# detection-ai-deck
-Performs object detection on AI-deck
+# AI-Deck Object Detection
+Repo contains: 
+1. Training a simple object detection model (MobileNetv2) 
+2. Quantising TFLite Model
+3. Generating Autotiler Code for AI-Deck implementation
 
 ## Installation
 Clone into aideck-gap8-examples/examples/other
