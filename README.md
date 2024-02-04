@@ -5,7 +5,7 @@ Repo contains:
 3. Generating Autotiler Code for AI-Deck implementation
 
 ## Installation
-Clone into aideck-gap8-examples/examples/other
+Clone into `aideck-gap8-examples/examples/other`
 
 From a terminal with the docker container, or gap_sdk dev environment, in the `aideck-gap8-examples/` folder, execute:
 
