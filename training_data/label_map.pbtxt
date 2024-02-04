@@ -1,0 +1,10 @@
+item {
+    name: "ball",
+    id: 1,
+    display_name: "ball"
+}
+item {
+    name: "cone",
+    id: 2,
+    display_name: "cone"
+}
